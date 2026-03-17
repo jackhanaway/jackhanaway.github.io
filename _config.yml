@@ -7,12 +7,12 @@ description: >-
   collegiate baseball environments.
 
 baseurl: ""
-url: "https://jackhanaway.github.io"  # ← replace with your actual GitHub username
+url: "https://jackhanaway.github.io"
 
 twitter_username: "jacksonhanaway"
-github_username: jackhanaway  # ← replace with your actual GitHub username
+github_username: jackhanaway
 
-minimal_mistakes_skin: "air"   # clean, professional blue-tinted white skin
+minimal_mistakes_skin: "air"
 
 search: true
 
@@ -40,11 +40,9 @@ plugins:
 
 # ── Author / Sidebar ──────────────────────────────────────────────────────────
 author:
-  name   : "Jack Hanaway"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Baseball analytics professional with experience in R, Python, and Trackman
-            across collegiate and professional environments. B.S. Sport Management,
-            University of Tennessee. Incoming M.S. Business Analytics."
+  name: "Jack Hanaway"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Baseball analytics professional with experience in R, Python, and Trackman across collegiate and professional environments. B.S. Sport Management, University of Tennessee. Incoming M.S. Business Analytics."
   location: "Knoxville, TN"
   links:
     - label: "LinkedIn"
@@ -66,12 +64,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackhanaway"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jhanaway42@gmail.com"
 
-# ── Navigation ────────────────────────────────────────────────────────────────
-# Create a file at _data/navigation.yml with the content below this config.
-# (Shown as a comment here for reference — see separate navigation.yml file)
-
-# ── Defaults ─────────────────────────────────────────────────────────────────
+# ── Defaults ──────────────────────────────────────────────────────────────────
 defaults:
   # _posts
   - scope:
@@ -84,7 +81,6 @@ defaults:
       comments: false
       share: true
       related: true
-
   # _pages
   - scope:
       path: "_pages"
@@ -92,7 +88,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
   # _projects
   - scope:
       path: ""
@@ -108,7 +103,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-# ── Archives ─────────────────────────────────────────────────────────────────
+# ── Archives ──────────────────────────────────────────────────────────────────
 category_archive:
   type: liquid
   path: /categories/
