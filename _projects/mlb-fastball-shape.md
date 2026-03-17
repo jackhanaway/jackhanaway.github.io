@@ -1,4 +1,5 @@
-title: "MLB Fastball Shape & Hitter Performance"
+---
+title: "MLB Fastball Shape and Hitter Performance"
 excerpt: "A Python research project analyzing how elite fastball movement shapes — quantified through composite metrics built from Statcast data — create measurable, statistically significant differences in hitter performance and swing mechanics."
 tools: "Python · pandas · pybaseball · Statcast · scipy"
 header:
@@ -43,7 +44,7 @@ These findings have direct applications for both scouting and player development
 Matchup evaluation: A pitcher's True Ride percentile can flag hitters who are mechanically vulnerable based on their attack angle profile
 Pitch design: Pitchers seeking to develop a ride fastball can target IVB and VAA thresholds associated with elite True Ride scores
 Hitting development: Hitters whose attack angles trend high may need mechanical adjustments to handle elite rising fastball shapes
-
+---
 
 Links
 View Full Research Paper{: .btn .btn--primary}
