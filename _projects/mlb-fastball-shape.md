@@ -79,5 +79,5 @@ Hitters who perform best against elite ride fastballs tend to have **lower, more
 
 ## Links
 
-[View Full Research Paper](https://YOUR-GOOGLE-DOC-LINK){: .btn .btn--primary}
+[View Full Research Paper](https://docs.google.com/document/d/1F70YUd7Yf9Abre2wxV-_AhaQDgZVOCGotVBlFdrEcCg/edit?tab=t.0#heading=h.8wwqq1g9de91){: .btn .btn--primary}
 [View Jupyter Notebook on GitHub](https://github.com/jackhanaway/mlb-fastball-shape/blob/main/MLBvsFastballShape.ipynb){: .btn .btn--inverse}
