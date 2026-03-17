@@ -8,9 +8,9 @@ header:
 
 ## Summary
 
-During my time as a Performance & Data Analytics Intern at Nomad Baseball, one of the first needs I identified was a faster, more visual way for coaches to understand where each athlete stood physically relative to their peers. Nomad tests all incoming athletes across a standardized battery of power metrics, but that data was living in spreadsheets — not in a format a coach could pull up in seconds before a session.
+During my time as a Performance & Data Analytics Intern at Nomad Baseball, one of the first needs I identified was a faster, more visual way for coaches to understand where each athlete stood physically relative to their peers. Nomad Baseball tests all incoming athletes across a standardized slate of power metrics, but that data was living in spreadsheets, and not in a format a coach could pull up in seconds before a session, or to show to a parent.
 
-I built two R Shiny applications to solve this: one for the high school population and one for the college population. Each app generates an interactive radar plot that instantly profiles an athlete across five metrics and places them in context against their peer group.
+I built two R Shiny applications to solve this: one for the facility's high school population and one for the college population. Each app generates an interactive radar plot that instantly profiles an athlete across five relevant power metrics and places them in context against their peer group.
 
 ---
 
@@ -45,6 +45,23 @@ The radar plot visualizes all five percentile scores simultaneously, making it i
 
 ---
 
+# Additional Notes
+
+# Med Ball Shotput scores 
+- We observed greater Med Ball shotput scores on an athlete's dominant side for every athlete in both datasets
+- The user can identify an athlete's dominant side by toggling the handedness tab, and observing the greater Med Ball Shotput score
+- Both sides were tested to indentify large discrepancies between left and right handed throws, though only dominant sides are
+included in the "Team Overview" tabs.
+
+# Incomplete Data
+- An athlete's radar plot missing a metric indicates a physical inability for the athlete to test the metric at time of testing.
+
+# Future Expansion
+- Plans on project expansion include adding more relevant metrics for users to choose from to create their own radar plots for Nomad athletes, including bilateral jump metrics and force output measured with force plates.
+- Further research is being conducted on how the current metrics interact with different motor preference profiles to affect velocity. Future plans include creating distinct metric batteries based on whether an athlete is an aerial or terrestrial mover for more individualized and relevant testing.
+
+
+---
 ## Links
 
 [High School Athlete App](https://nomadbaseball.shinyapps.io/NomadHighSchoolPowerApp/){: .btn .btn--primary}
