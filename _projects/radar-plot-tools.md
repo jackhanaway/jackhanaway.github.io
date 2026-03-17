@@ -47,6 +47,6 @@ The radar plot visualizes all five percentile scores simultaneously, making it i
 
 ## Links
 
-[High School Athlete App](https://YOUR-SHINYAPPS-LINK-HS){: .btn .btn--primary}
-[College Athlete App](https://YOUR-SHINYAPPS-LINK-COLLEGE){: .btn .btn--primary}
-[GitHub Repository](https://github.com/YOUR-GITHUB-USERNAME/nomad-radar-plots){: .btn .btn--inverse}
+[High School Athlete App](https://nomadbaseball.shinyapps.io/NomadHighSchoolPowerApp/){: .btn .btn--primary}
+[College Athlete App](https://nomadbaseball.shinyapps.io/CollegePowerApp/){: .btn .btn--primary}
+[GitHub Repository](https://github.com/jackhanaway/nomad-radar-plots){: .btn .btn--inverse}
