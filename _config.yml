@@ -62,10 +62,10 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jack-hanaway"
+      url: "https://https://www.linkedin.com/in/jack-hanaway-b279662a0/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOUR-GITHUB-USERNAME"
+      url: "https://github.com/jackhanaway"
 
 # ── Navigation ────────────────────────────────────────────────────────────────
 # Create a file at _data/navigation.yml with the content below this config.
