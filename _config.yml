@@ -7,7 +7,7 @@ description: >-
   collegiate baseball environments.
 
 baseurl: ""
-url: "https://YOUR-GITHUB-USERNAME.github.io"  # ← replace with your actual GitHub username
+url: "https://jackhanaway.github.io"  # ← replace with your actual GitHub username
 
 twitter_username: "jacksonhanaway"
 github_username: jackhanaway  # ← replace with your actual GitHub username
@@ -49,10 +49,10 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jack-hanaway"
+      url: "https://www.linkedin.com/in/jack-hanaway-b279662a0/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOUR-GITHUB-USERNAME"
+      url: "https://github.com/jackhanaway"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jhanaway42@gmail.com"
