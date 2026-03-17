@@ -43,5 +43,5 @@ Similarly, a planned future feature will embed quick-access throwing video direc
 
 ## Links
 
-[Live App](https://YOUR-SHINYAPPS-LINK-DASHBOARD){: .btn .btn--primary}
-[GitHub Repository](https://github.com/YOUR-GITHUB-USERNAME/nomad-athlete-dashboard){: .btn .btn--inverse}
+[Live App](https://nomadbaseball.shinyapps.io/NomadDashboard/){: .btn .btn--primary}
+[GitHub Repository](https://github.com/jackhanaway/nomad-athlete-dashboard){: .btn .btn--inverse}
