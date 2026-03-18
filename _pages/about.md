@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-My name is Jack Hanaway, and baseball has been a constant throughout my life. My experience as a player, coach, and overall student of the game has led me to seek how understand baseball through data, and create actionable insights for real results.
+My name is Jack Hanaway, and baseball has been a constant throughout my life. My experience as a player, coach, and overall student of the game has led me to seek how to understand baseball through data, and create actionable insights for real results.
 
 I created this site to organize and share the analytical work I have done across collegiate and professional baseball environments, and to push myself to communicate findings clearly, both in writing and in the tools I build.
 
